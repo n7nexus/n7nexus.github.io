@@ -17,7 +17,7 @@ title: Yeah, Science!!! (Software Development Too!)
 #email: denis-sablukov@mail.ru
 description: Just a peronal blog of Dynamic Uno 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "n7nexus.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://n7nexus.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  n7nexus
 
